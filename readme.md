@@ -39,7 +39,7 @@ Try to use common data load and preprocessing scripts. Also list the most freque
 List of dataset
 
 |Dataset			|	Task	|	Code Link	| Others |
-|:-:		|:-:	|:-:  |:-:  |:-:  |
+|:-:		|:-:	|:-:  |:-:  |
 |WN18RR	|knowledge graph completion	|link here|xx|
 |FB15K237  (Paper\*)	|knowledge graph completion	|link here|-|
 
